@@ -1,0 +1,31 @@
+echo locale
+localectl set-locale LANG="en_US.utf8"
+localectl set-locale LANGUAGE=en_IND:en
+localectl set-locale LC_CTYPE="en_US.utf8"
+localectl set-locale LC_TIME="en_US.utf8"
+localectl set-locale LC_COLLATE="en_US.utf8"
+localectl set-locale LC_MONETARY="en_US.utf8"
+localectl set-locale LC_MESSAGES="en_US.utf8"
+localectl set-locale LC_PAPER="en_US.utf8"
+localectl set-locale LC_NAME="en_US.utf8"
+localectl set-locale LC_ADDRESS="en_US.utf8"
+localectl set-locale LC_TELEPHONE="en_US.utf8"
+localectl set-locale LC_MEASUREMENT="en_US.utf8"
+localectl set-localeLC_IDENTIFICATION="en_US.utf8"
+
+echo "changed locale language from default to promoted...!!!"
+echo "localectl set-locale LANG="en_US.utf8"
+      localectl set-locale LANGUAGE=en_IND:en
+      localectl set-locale LC_CTYPE="en_US.utf8"
+      localectl set-locale LC_TIME="en_US.utf8"
+      localectl set-locale LC_COLLATE="en_US.utf8"
+      localectl set-locale LC_MONETARY="en_US.utf8"
+      localectl set-locale LC_MESSAGES="en_US.utf8"
+      localectl set-locale LC_PAPER="en_US.utf8"
+      localectl set-locale LC_NAME="en_US.utf8"
+      localectl set-locale LC_ADDRESS="en_US.utf8"
+      localectl set-locale LC_TELEPHONE="en_US.utf8"
+      localectl set-locale LC_MEASUREMENT="en_US.utf8"
+      localectl set-localeLC_IDENTIFICATION="en_US.utf8"
+      "
+clear      
